@@ -1,12 +1,50 @@
 # WedStream - WebApp Board
 
+# Nom du Projet - Tableau de Bord de l'Application Web
+
+## Présentation
+
+Ce dépôt GitHub sert de tableau de bord de projet pour planifier et suivre les futures fonctionnalités de l'application web. L'application est conçue pour des diaporamas en direct lors d'événements, permettant aux utilisateurs de partager des images en temps réel affichées sur un diaporama rotatif.
+
+## Table des Matières
+
+- [Nom du Projet - Tableau de Bord de l'Application Web](#wedstream---webapp-board)
+  - [Présentation](#présentation)
+  - [Tableau de Bord des Futures Fonctionnalités](#tableau-de-bord-des-futures-fonctionnalités)
+
+## Tableau de Bord des Futures Fonctionnalités
+
+### [Tableau de Bord GitHub](https://github.com/ssan93/WedStreamBoard/projects)
+
+Ce tableau présente les fonctionnalités futures et les améliorations prévues pour l'application web. N'hésitez pas à explorer le tableau, à ajouter des commentaires et à contribuer avec vos idées.
+
+#### Colonnes Actuelles :
+
+1. **To-Do:**
+   - Fonctionnalités prévues pour le développement futur.
+2. **In Progress:**
+   - Fonctionnalités actuellement discutées ou en planification.
+3. **Done:**
+   - Fonctionnalités finalisées ou décidées.
+
+#### Comment Contribuer au Tableau :
+
+1. Consultez le [Tableau de Bord](https://github.com/ssan93/WedStreamBoard/projects).
+2. Ajoutez de nouvelles idées de fonctionnalités à la colonne "À Faire".
+3. Participez aux discussions sur les fonctionnalités dans la colonne "En Cours".
+4. Déplacez les fonctionnalités dans la colonne "Terminé" lorsqu'elles sont finalisées.
+
+Merci de contribuer au futur de notre application web ! 🚀
+
+---
+
 ## Overview
 
 This GitHub repository serves as a project board for planning and tracking the future features of the web application. The application is designed for live event slideshows, allowing users to share images in real-time, displayed on a rotating slideshow.
 
 ## Table of Contents
 
-- [Project Name - WebApp Board](#project-name---webapp-board)
+- [Project Name - WebApp Board](#wedstream---webapp-board)
   - [Overview](#overview)
   - [Future Features Board](#future-features-board)
 
