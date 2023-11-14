@@ -1,14 +1,12 @@
 # WedStream - WebApp Board
 
-# Nom du Projet - Tableau de Bord de l'Application Web
-
 ## Présentation
 
 Ce dépôt GitHub sert de tableau de bord de projet pour planifier et suivre les futures fonctionnalités de l'application web. L'application est conçue pour des diaporamas en direct lors d'événements, permettant aux utilisateurs de partager des images en temps réel affichées sur un diaporama rotatif.
 
 ## Table des Matières
 
-- [Nom du Projet - Tableau de Bord de l'Application Web](#wedstream---webapp-board)
+- [WedStream - WebApp Board](#wedstream---webapp-board)
   - [Présentation](#présentation)
   - [Tableau de Bord des Futures Fonctionnalités](#tableau-de-bord-des-futures-fonctionnalités)
 
