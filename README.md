@@ -12,7 +12,7 @@ Ce dépôt GitHub sert de tableau de bord de projet pour planifier et suivre les
 
 ## Tableau de Bord des Futures Fonctionnalités
 
-### [Tableau de Bord GitHub](https://github.com/ssan93/WedStreamBoard/projects)
+### [Tableau de Bord GitHub](https://github.com/users/ssan93/projects/1)
 
 Ce tableau présente les fonctionnalités futures et les améliorations prévues pour l'application web. N'hésitez pas à explorer le tableau, à ajouter des commentaires et à contribuer avec vos idées.
 
@@ -27,7 +27,7 @@ Ce tableau présente les fonctionnalités futures et les améliorations prévues
 
 #### Comment Contribuer au Tableau :
 
-1. Consultez le [Tableau de Bord](https://github.com/ssan93/WedStreamBoard/projects).
+1. Consultez le [Tableau de Bord](https://github.com/users/ssan93/projects/1).
 2. Ajoutez de nouvelles idées de fonctionnalités à la colonne "À Faire".
 3. Participez aux discussions sur les fonctionnalités dans la colonne "En Cours".
 4. Déplacez les fonctionnalités dans la colonne "Terminé" lorsqu'elles sont finalisées.
@@ -48,7 +48,7 @@ This GitHub repository serves as a project board for planning and tracking the f
 
 ## Future Features Board
 
-### [GitHub Projects Board](https://github.com/ssan93/WedStreamBoard/projects)
+### [GitHub Projects Board](https://github.com/users/ssan93/projects/1)
 
 This board outlines the future features and enhancements planned for the web application. Feel free to explore the board, add comments, and contribute your ideas.
 
@@ -63,7 +63,7 @@ This board outlines the future features and enhancements planned for the web app
 
 #### How to Contribute to the Board:
 
-1. Review the [Projects Board](https://github.com/ssan93/WedStreamBoard/projects).
+1. Review the [Projects Board](https://github.com/users/ssan93/projects/1).
 2. Add new feature ideas to the "To-Do" column.
 3. Participate in discussions about features in the "In Progress" column.
 4. Move features to "Done" when they are finalized.
